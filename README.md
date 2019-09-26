@@ -6,10 +6,12 @@
 * Смоделировать работу метеостанции в консольном приложении.
 
 Interface approach: go to [WeatherStationSystem(Interfaces)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.13/blob/master/WeatherStationSystem(Interfaces))
-![](inteface.)
+
+<img src="interface.jpg" height="250" width="250">
 Event approach: go to [WeatherStationSystem(Events)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.13/blob/master/WeatherStationSystem(Events))
-![](event.)
-<br/><br/>
+
+<img src="event.jpg" height="250" width="250">
+
 :heavy_check_mark: 2. Разработать класс для имитации часов с обратным отсчетом (только через event), реализующий возможность по истечении назначенного времени (время ожидания предоставляется классу пользователем) передавать сообщение и дополнительную информацию о событии любому подписавшемуся на событие типу. Продемонстрировать работу класса в консольном приложении.<br/>
 go to [CountDownSystem](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.13/blob/master/CountDownSystem)
 
