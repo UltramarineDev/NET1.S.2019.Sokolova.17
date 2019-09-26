@@ -5,10 +5,11 @@
 * Предложить два варианта решения (интерфейсы + event)
 * Смоделировать работу метеостанции в консольном приложении.
 
-Interface approach: go to [WeatherStationSystem(Interfaces)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.13/blob/master/WeatherStationSystem(Interfaces))
+Interface approach: go to [WeatherStationSystem(Interfaces)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.17/tree/master/WeatherStationSystem(Interfaces))
 
 <img src="interface.jpg" height="250" width="250">
-Event approach: go to [WeatherStationSystem(Events)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.13/blob/master/WeatherStationSystem(Events))
+
+Event approach: go to [WeatherStationSystem(Events)](https://github.com/UltramarineDev/NET1.S.2019.Sokolova.17/tree/master/WeatherStationSystem(Events))
 
 <img src="event.jpg" height="250" width="250">
 
